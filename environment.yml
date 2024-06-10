@@ -1,0 +1,15 @@
+name: election_districts_analysis
+dependencies:
+  - python=3.10
+  - flake8
+  - black
+  - isort
+  - pre-commit
+  - pandas
+  - python-dotenv
+  - notebook
+  - matplotlib
+  - numpy
+  - geopandas
+  - pip:
+      - black[jupyter]
