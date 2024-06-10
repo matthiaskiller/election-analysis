@@ -3,10 +3,10 @@
 Code helps to visualize election results from the german parlament elections on district (Wahlkreis) level. 
 Basic recommendation algorithm which helps to push back undemocratic parties in certain districts by helping democratic parties to power up together to fight back Direktmandate. This could be implemented by "voter swapping" in different district. I.e. democratic Party A recommends democratic Party B in District I and democratic Party B recommends democratic Party A in District II and therefore undemocratic Party C won't win in both of them.
 
-## Election districts without voting recommendations
+## Election districts without voting recommendations (based on 2017 results)
 ![Election districts without voting recommendations](https://github.com/matthiaskiller/election-analysis/blob/main/map_2.png?raw=true)
 
-## Election districts after applying voting recommendations
+## Election districts after applying voting recommendations (based on 2017 results)
 ![Election districts after applying voting recommendations](https://github.com/matthiaskiller/election-analysis/blob/main/map.png?raw=true)
 
 ## Setup 
